@@ -1,6 +1,6 @@
 # mvn
 
-matlab code for paper: 
+code for the paper: 
 # Calculation Model for A Special Multivariable Normal Probability and Its Application
 
 
