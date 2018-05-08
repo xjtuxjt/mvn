@@ -1,7 +1,7 @@
 # mvn
 
 Code for the paper : 
-# Calculation Model for A Special Multivariable Normal Probability and Its Application
+# Recursive Calculation Model for a Special Multivariate Normal Probability of First-order Stationary Sequence
 
 
 Only public after the paper is officially published.
